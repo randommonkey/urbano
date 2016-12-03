@@ -1,0 +1,119 @@
+# DIY - Do it yourself
+
+
+
+## Intervenciones Públicas
+
+
+
+
+### Kits
+
+
+#### Preparación de kits
+
+Para la preparación de los kits es necesario averiguar las cantidades por las que vienen los materiales que lo conforman y determinar a partir de cuántas unidades se pueden obtener descuentos (por ejemplo en Colombia los productos se comercializan al por mayor, mínimo por docenas) lo que nos llevó a decidir teniendo en cuenta la cantidad de personas que iban asistir al evento que lo más rentable era producir 100 unidades.
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE,fig.cap='Preparación de kits',fig.align='center', out.width='90%'}
+knitr::include_graphics("assets/02/kits.png")
+```
+
+La preparación de los kits ocurre en 2 fases:
+- Pre-prouducción
+- Producción, 
+
+La fase de **pre-producción** tomó al menos 3 días hábiles. Se debe decidir sobre:
+
+- Cantidad de kits a producir
+- Materiales a incluir
+- Cantidades de cada uno de los materiales
+
+El proceso para la toma de estas desiciones es iterativo. Se inicia con un presupuesto inicial, se cotizan materiales y se revisan las cantidades. Recuerde que normalmente cuantas más cantidades se tengan de los materiales, más económica sale su implementación.
+
+```{r table-materiales, echo = FALSE, message=FALSE, warning=FALSE, tidy=FALSE}
+materiales <- read_csv("assets/02/materials-prices.csv")
+
+knitr::kable(
+  head(mtcars[, 1:8], 10), booktabs = TRUE,
+  caption = 'Precios aproximados de materiales por kit para Colombia'
+)
+```
+
+
+
+
+
+
+## Materials
+
+The easiest way to make an urban visualization would be arranging small objects. Different pseudoviz can be made using arrangements of objects, here are some examples:
+
+- Bars
+- Histrograms
+- Scatetrs
+- Volume graphs
+
+When it is not easy to arrange the objects you can augment the properties of the objects that can be encoded with data using different materials. Here are a couple options: 
+
+- Chalk
+- cintas
+    + de adorno
+    + de enmcascarar
+    + aislante
+    + espumada
+- Paper
+- Vinilo
+- Markers
+- Rótulos
+
+
+
+
+### El evento
+
+### Aprendizajes
+
+
+## Otras intervenciones
+
+### Hogar
+
+### Supermercado
+
+### Restaurante
+
+### Tiendas
+
+
+
+
+## NOTES
+
+These are step by step instructions to build your own urban visualizations.
+
+1. Select your favorite topic.
+2. Select and prepare the data.
+3. Build you visualization with any visualization software.
+4. Find a place to build your visualization.
+5. Prepare the materials.
+6. Go and buid it
+
+You can build your urban visualization in different places. It could be outdoors or indoors, here is a list of some of the available options.
+
+- Outdoors
+    + Parks
+    + Streets
+    + Building facades
+- Indoors
+    + Home
+    + Supermarket
+    + Retail store
+
+
+
+
+
+
+
+
+

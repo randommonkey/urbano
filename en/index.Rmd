@@ -1,0 +1,13 @@
+---
+title: "A Book"
+author: "Juan Pablo Marín Díaz"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+---
+
+# Urban Data Visualization {-}
+
+This is a book about urban data visualization.

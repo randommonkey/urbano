@@ -1,0 +1,13 @@
+---
+title: "Visualización Urbana"
+author: "Juan Pablo Marín Díaz"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+---
+
+# Visualización Urbana {-}
+
+Este es un libro sobre visualización urbana.

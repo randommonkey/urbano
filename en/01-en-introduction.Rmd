@@ -1,0 +1,33 @@
+
+# What is Urban Visualization
+
+Urban visualization is a type of data driven intervention, where data is transformed into visual aids common in the data visualization world but built on top or using common elements in physical spaces.
+
+We will explore there types of urban visualizations that can be created by anyone.
+
+There can be multiple motivations to create urban visualizations. People can use them to communicate directly with an audience at specific location. Their use might provoque a cultural change on the topics treated in the visualization.
+
+The types of communications are strictly confined in the data domain. Luckily for us, most topics can be viewed from a data driven perspetive.
+
+Take politics, sports, feminism, religion and you will very likely find some data to support your claims.
+
+Data is subjective, and data driven analysis can be biased, on purpose or not, towards a particular view of the world. It is only with diffusion and democratization that we can find common grounds by comparing multiples views of the world that we can move forward as society.
+
+
+
+
+## Viz types
+
+For citizens to be able to select the types of visualizations that suit them best they must be aware of what they have at hand.
+
+Through out the book we will refer to pseudo viz to the different types of visualizations that can be made.
+
+A Pseudoviz is a high level description of a visualization. It uses sketches to depict the a visual representation of data. Specific details of the visualization might be deliberately omitted with the purpose to leave the pseudoviz in the abstract. Details that are usually omitted correspond to legends, titles, axis ticks or annotations, as they can be thought of as optional parameters for a given visualization. Details or features that might a particular software to create the visualizations are also intentionaly omitted.
+
+Through the book we will use the pseudoviz created by __jpmarindiaz__ and available under a creative commons international license. For an exhaustive browsable list of Pseudoviz check out Datasketch's project [Pseudoviz](http://datasketch.co/en/pseudoviz)
+
+The Pseudoviz used in the urban data visualizations proposed in this book are detailed in the next sections.
+
+
+
+

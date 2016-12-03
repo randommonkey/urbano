@@ -1,0 +1,4 @@
+# Introducción
+
+Visualización urbana es un tipo de intervención basada en datos, en la cual los datos son transformados en guías visuales a través del uso de materiales y objetos embebidos en el espacio urbano.
+
