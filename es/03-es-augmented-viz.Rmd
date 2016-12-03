@@ -25,9 +25,9 @@ In the next section we will how we can do that.
 
 
 
-## How to create augmented visualizations
+## Cómo crear visualizaciones aumentadas
 
-### Finding a physical Pseudoviz 
+### Encontrar una visualización física 
 
 Finding a place or an object with a visualization already made if the first step to create augmented visualizations.
 
@@ -45,7 +45,7 @@ Here are some clues for you to look for:
 - Irregular Grids in walls
 - 
 
-### Creating a data visualization
+### Hacer la visualización
 
 With the place and pseudo viz picked, all you have to do is find the visualization that represents the physical place.
 
