@@ -1,5 +1,4 @@
 ---
-title: "Visualización Urbana"
 author: "Juan Pablo Marín Díaz"
 site: bookdown::bookdown_site
 documentclass: book
