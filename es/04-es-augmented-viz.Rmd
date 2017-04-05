@@ -1,5 +1,7 @@
 # Visualizaciones Aumentadas
 
+
+
 Augmented visualizations are the result of taking real objects or places in physical space and turning them into data visualizations without any type of intervention.
 
 Augmented visualizations bring together data, augmented reality and visualizations in a wysiwyg (what you see is what you get) process.

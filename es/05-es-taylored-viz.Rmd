@@ -1,6 +1,6 @@
 # Visualizaciones a la medida
 
-Las visualizaciones a la medida varían mucho dependiendo de los tamaños de los objetos o espacios a intervenir. Categorizamos estos tipos de intervenciones en 3 tipos dependiende desde qué distancia se pueden apreciar las visualizaciones para un humano cualquiera.
+Las visualizaciones a la medida varían mucho dependiendo de los tamaños de los objetos o espacios a intervenir. Categorizamos estos tipos de intervenciones en 3 tipos dependiendo desde qué distancia se pueden apreciar las visualizaciones para un humano cualquiera.
 
 - Pequeño
 - Mediano

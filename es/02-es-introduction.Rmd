@@ -3,6 +3,7 @@
 Estamos viviendo la época más congestionada de la Modernidad en cuanto a información, los datos están inmersos en la sociedad y están por todas partes, los vemos, los escuchamos, los leemos. Esta novedad, ha facilitado la democratización del conocimiento, y se ha posicionado como una revolución cuyo rol fundamental es  aprender a  tomar decisiones y ganar conciencia sobre la información que nos rodea, así como los datos  personales, individuales y colectivos. 
 
 ![alt text](assets/02/Captura.PNG)
+
 Urbano es una apuesta novedosa que está interesada en utilizar los datos de manera inteligente y eficaz desde el espacio urbano, partiendo de las experiencias digitales que se han tenido desde la interacción con datos. 
 Este proyecto, es un esfuerzo para darle a los ciudadanos nuevas herramienta que les permita tomar mejores decisiones informadas a través de la sensibilización en temas de datos y visualización. 
 
@@ -20,6 +21,8 @@ Carencia de medios que comuniquen conceptos y cifras de manera más visual y men
 ![Este es un ejemplo de visualización](assets/02/visualizacion1.PNG)
 
 ## Visualizaciones Callejeras:
+
+![Qué nos dicen los datos](assets/02/quenosdicenlosdatos.PNG)
 
 El proyecto consiste en entregar a un grupo de ciudadanos kits que contienen diversos materiales junto con muestras de visualizaciones hechas con datos que cuenten diversas problemáticas. Los ciudadanos pueden utilizar cintas, hilos y vinilos para recrear en espacios públicos, como parques, las diferentes visualizaciones.
 
@@ -55,7 +58,7 @@ En esta ocasión implementamos a puerta cerrada en la conferencia varias visuali
 
 ![Cobertura de Internet en América Latina](assets/02/parque1.PNG)
 
-Esta intervención del espacio nos pareció muy interesante, ya que este grupo decidió utilizar las cestas de basura para hacer su visualización
+Esta intervención del espacio nos pareció muy interesante, ya que este grupo decidió utilizar las cestas de basura para hacer su visualización.
 
 
 

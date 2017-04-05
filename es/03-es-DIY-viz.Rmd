@@ -3,29 +3,66 @@ library(tidyverse)
 ```
 
 
-# Hazlo tu mismo
+# Hazlo Tu Mismo
+
+![alt text](assets/03/Captura.PNG)
+
+
+Surgida de la cultura Underground, el Do It Yourself (DIY) o Hazlo Tu Mismo se ha convertido en una forma de creación y distribución cultural con el auge de una tendencia que nos invita a ser creadores, a desarrollar y a fabricar nuestros propios productos. Esta postura se ha convertido en una alternativa a la creación mainstream, ya que nos hemos acostumbrado a tener todo listo para usar, comer, y vestir.  En este sentido, las herramientas digitales han evolucionado y la capacidad de expansión del DIY  es mucho mayor. La creación y esparcimiento de espacios de promoción de diferentes herramientas, las nuevas voces, los nuevos medios, todo esto marca un antes y un después en la nueva cultura digital.
 
 
 
 ## Intervenciones Públicas
 
 
+El objetivo de este proyecto es potencializar las intervenciones callejeras y públicas como práctica política. A partir de los  relatos de distintos procesos de intervención callejera y su respectiva presentación en el espacio público podemos pensar en la importancia de los datos para la transformación social, específicamente las visualizaciones e intervenciones en el espacio público. La especificidad que conlleva la intervención en el espacio público, la articulación con la coyuntura actual del país  y la búsqueda por promover la participación  ciudadana pone de manifiesto la clara incidencia de estas prácticas en la vida social cotidiana.
+
+![alt text](assets/03/intervencioncallejera.PNG)
+
+
+
 ### Materiales
 
 Los tipos de visualización que más fácil se pueden representar en espacio público con materiales sencillos corresponden a las siguientes:
 
-- Barras
-- Líneas
-- Dispersión
+- _Líneas_
+
+![Visualización de líneas](assets/03/lineas.PNG)
+
+- _Barras_
+
+![Visualización de Barras](assets/03/barras.PNG)
+
+- _Dispersión_ 
+
+![Visualización de Dispersión](assets/03/dispersion.PNG)
 
 Estas visualizaciones se pueden realizar con los siguientes materiales.
 
-- Tiza
-- Cintas e hilos
-- Papel
-- Vinilo
-- Marcadores
-- Rótulos
+- _Tizas_
+
+![Tizas](assets/03/tizas.PNG)
+
+- _Cintas e hilos_
+
+![Cintas e Hilos](assets/03/cintas.PNG)
+
+- _Papel_
+
+![Papel](assets/03/papel.PNG)
+
+- _Vinilo_
+
+![Vinilo](assets/03/vinilo.PNG)
+
+- _Marcadores_
+
+![Marcadores](assets/03/marcadores.PNG)
+
+- _Rótulos_
+
+![Rótulos](assets/03/rotulos.PNG)
+
 
 
 
@@ -46,6 +83,10 @@ El kit debe contener al menos:
 - 12 Rótulos blancos de 100mmX53mm
 - 5 Visualizaciones impresas
 - 1 Instrucción de uso
+
+![Kit Urbano](assets/03/kiturbano.PNG)
+
+
 
 
 ```{r, echo = FALSE, message=FALSE, warning=FALSE,fig.cap='Preparación de kits',fig.align='center', out.width='90%'}
@@ -91,7 +132,7 @@ La fase de **pre-producción** tomó al menos 3 días hábiles. Se debe decidir 
 - Materiales a incluir
 - Cantidades de cada uno de los materiales
 
-El proceso para la toma de estas desiciones es iterativo. Se inicia con un presupuesto inicial, se cotizan materiales y se revisan las cantidades. Recuerde que normalmente cuantas más cantidades se tengan de los materiales, más económica sale su implementación.
+El proceso para la toma de estas decisiones es iterativo. Se inicia con un presupuesto inicial, se cotizan materiales y se revisan las cantidades. Recuerde que normalmente cuantas más cantidades se tengan de los materiales, más económica sale su implementación.
 
 ```{r table-materiales, echo = FALSE, message=FALSE, warning=FALSE, tidy=FALSE}
 materiales <- read_csv("assets/02/precios-materiales.csv")
