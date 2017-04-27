@@ -1,29 +1,28 @@
 # Visualizaciones Aumentadas
 
 
+Las visualizaciones aumentadas son el resultado de tomar objetos o lugares reales en el espacio físico y convertirlos en visualizaciones de datos sin ningún tipo de intervención.
 
-Augmented visualizations are the result of taking real objects or places in physical space and turning them into data visualizations without any type of intervention.
+Las visualizaciones aumentadas reúnen datos, realidad aumentada y visualizaciones en un proceso wysiwyg (lo que ves es lo que tienes).
 
-Augmented visualizations bring together data, augmented reality and visualizations in a wysiwyg (what you see is what you get) process.
+Para comenzar con off, vamos a entrenar nuestro ojo para ver diferentes tipos de visualización en el espacio público.
 
-To start with off, let us train our eye to see different visualization types in public space.
-
-Please match the picture on the left with the corresponding pseudoviz:
+Por favor, coincida con la imagen de la izquierda con el pseudoviz correspondiente:
 
 ```{r, echo = FALSE, message=FALSE, warning=FALSE,fig.cap='Preparación de kits',fig.align='center', out.width='90%'}
 knitr::include_graphics("assets/03/augmented_match.png")
 ```
 
 
-Although there might be may visualizations that are already there, the real challenge comes when one needs to make them explicit for passerbys to notice and get the message we want to convey.
+Aunque puede haber visualizaciones que ya están ahí, el verdadero desafío viene cuando uno necesita hacerlas explícitas para que los transeúntes se den cuenta y obtengan el mensaje que queremos transmitir.
 
-For this we need three things:
+Para ello necesitamos tres cosas:
 
-1. Identify the place or space along with its corresponding pseudoviz
-2. Create a data visualization for the selected space and pseudoviz.
-3. Properly label the embedded visualization.
+1. Identificar el lugar o espacio junto con su pseudoviz correspondiente
+2. Crear una visualización de datos para el espacio seleccionado y pseudoviz.
+3. Etiquetar correctamente la visualización incrustada.
 
-In the next section we will how we can do that.
+En la siguiente sección veremos cómo podemos hacerlo.
 
 
 
@@ -31,41 +30,46 @@ In the next section we will how we can do that.
 
 ### Encontrar una visualización física 
 
-Finding a place or an object with a visualization already made if the first step to create augmented visualizations.
+Encontrar un lugar o un objeto con una visualización ya realizada es el primer paso para crear visualizaciones aumentadas.
 
-We suggest you get acquainted with all types of data visualizations that can be made. There are already a couple of resources on the internet for you to explore possible visualizations, here are a couple options for you:
+Le sugerimos que se familiarice con todos los tipos de visualizaciones de datos que se pueden hacer. Ya hay un par de recursos en Internet para explorar posibles visualizaciones, aquí hay un par de opciones para usted:
 
-- __Pseudoviz__ (recommended by us)
-- Viz catalogue
-- blocks
-- ...
-- ...
+## Lugares para hacer visualizaciones AUMENTADAS
 
-Here are some clues for you to look for:
+Hacer la visualización que se parezca al lugar y pegarla como una foto al lado
 
-- Contiguous objects of the same type and different size
-- Irregular Grids in walls
-- 
+
+
+|Aumentadas|Visualización|Tipo de Datos|
+|          |             |             |
+|          |             |             |
+|          |             |             |
+
+
+
+
 
 ### Hacer la visualización
 
-With the place and pseudo viz picked, all you have to do is find the visualization that represents the physical place.
 
-It might be tricky to find the right data. We advice you to look for open data portals that have a lot of different information.
+Con el lugar y el pseudo-viz elegido, todo lo que tiene que hacer es encontrar la visualización que representa el lugar físico.
 
-Here are some clues:
+Puede ser dispendioso encontrar los datos correctos. Le aconsejamos buscar portales de datos abiertos que tengan mucha información diferente.
 
-- The most common visualization types that can be found in public space relate to proportions. Look for data that can be expressed as counts of categories or proportions.
+Aquí hay algunas pistas:
 
-
-### Lebeling the embedded visualization
-
-One option would be to use chalk or a blank paper sticker to write the labels and values of the visualization.
+- Los tipos de visualización más comunes que se pueden encontrar en el espacio público se relacionan con las proporciones. Busque datos que puedan expresarse como cuentas de categorías o proporciones.
 
 
-Eye comparisons of sizes and proportions in a public space are highly influenced by view angles and depth. Creating a label from the right perspective will definitely help convey the message with the visualizations. That's why we recommend creating a custom legend for your visualization. 
+###Lebeling la visualización incrustada
 
-You can take a picture of the place, overlay the visualization with any photoediting software and print it to place it as legend.
+Una opción sería utilizar tiza o un adhesivo de papel en blanco para escribir las etiquetas y los valores de la visualización.
+
+
+Las comparaciones de ojo de tamaños y dimensiones en un espacio público son sumamente bajo la influencia de ángulos de vista y profundidad. La creación de una etiqueta de la perspectiva derecha definitivamente ayudará a transportar el mensaje con las visualizaciones. Es por eso que recomendamos  crear una leyenda  para su visualización.
+
+Puede tomar una foto del lugar, superponer la visualización con cualquier software de fotoedición e imprimirlo para colocarlo como leyenda.
+
 
 ## Examples
 
@@ -77,4 +81,8 @@ knitr::include_graphics("assets/03/bogota_streamgraph.png")
 ```
 
 
+\begin{array}{|c|r|l|}
+\hline
+hola & chai & bad
+\end{array}
 

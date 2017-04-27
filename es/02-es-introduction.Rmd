@@ -14,7 +14,7 @@ Este proyecto, es un esfuerzo para darle a los ciudadanos nuevas herramienta que
 Muchas políticas son diseñadas a partir de la intuición y de comparaciones subjetivas. La experiencia es, sin duda, un gran aliado que los humanos utilizamos para sintetizar información cualitativa en el momento de tomar decisiones. Sin embargo, la intuición y la experiencia se verían muy enriquecidas si pudiéramos hacer contrastes con hechos medibles y comparables. 
 Es allí donde los datos nos traen un nuevo universo para apoyar la toma de decisiones a diferentes niveles, desde el ciudadano que quiere ver el estado de su entorno en comparación con otros momentos o lugares, hasta el planificador social y constructor de políticas. 
 Es una realidad que los datos siguen siendo inalcanzables para el común de los ciudadanos por diferentes razones, entre ellas:
-Poca disponibilidad de datos en formatos amigables y procesables.
+ Poca disponibilidad de datos en formatos amigables y procesables.
 Falta de educación de la ciudadanía alrededor de los datos.
 Carencia de medios que comuniquen conceptos y cifras de manera más visual y menos textual.
 
@@ -58,7 +58,9 @@ En esta ocasión implementamos a puerta cerrada en la conferencia varias visuali
 
 ![Cobertura de Internet en América Latina](assets/02/parque1.PNG)
 
-Esta intervención del espacio nos pareció muy interesante, ya que este grupo decidió utilizar las cestas de basura para hacer su visualización.
+De una u otra manera, sentimos que la ciudad donde vivimos refleja nuestra “casa”. Cada recorrido urbano que hacemos diariamente por plazas, aceras, calles, portales, escaleras, universidades, avenidas...entre otras, condiciona nuestra percepción y el aprecio que tenemos de ella. Cada lugar que recorremos tiene su propio ambiente  y su propio sello, a veces más público, otras veces más íntimo. El espacio público de la ciudad es continuo, la arquitectura le da vida a la ciudad y marca recorridos, formas….comprende todo a nuestro alrededor, se apropia de las fachadas, de las ruinas, de la perspectiva, del paisaje.
+
+Por eso, la intervención del espacio público a partir de visualizaciones callejeras es seguramente la acción más visible e influyente que podemos proponer. Es por esto que no puede ser considerado como algo ajeno como parte del espacio residual, sino que debe concebirse desde una acción positiva, reconociendo su función excepcional y su influencia representativa de la ciudad y del espacio público. 
 
 
 

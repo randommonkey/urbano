@@ -1,3 +1,31 @@
-# Sobre los autores {-}
+# Sobre los autores 
 
-Juan Pablo Marín Díaz es...
+## Juan Pablo Marin Díaz
+
+![Juan Pablo Marin Díaz](jpm.png)
+
+Juan Pablo Marín Díaz es un jóven emprendedor ingeniero eléctrico con un posgrado en Estadística Computacional, ha dedicado su experiencia y bagaje en tecnología a formar empresa que busca traer herramientas de matemática aplicada y Big Data a personas que necesitan tomar decisiones acertivas, entendibles y manejables a su entorno y empresa.
+
+La idea de Urbano surgió de la preocupación por la falta de interacción y acercamiento de los ciudadanos por los datos, ya que no existen herramientas efectivas o de fácil acceso de consulta de información.
+
+Urbano nace como una propuesta novedosa por la ciudadanía y para la ciudadanía, en la que los datos y las visualizaciones están a la merced del ciudadano, dónde pueden interactuar, cuestionar y/o modificar en vivo y en directo datos de fuentes fidedignas para plasmarlas e ilustrarlas en el concreto, en el parque, en la fuente, en el parador de bus o en cualquier estación urbana para alcanzar un diálogo preciso y directo con la información y los datos que a todos nos competen.
+
+## Lorena Cala Bohorquéz
+
+
+## Verónica Toro Berrio
+
+![Verónica Toro Berrio](veronica.png)
+
+Verónica Toro Berrio es Antropóloga y bailarina de danza contemporánea, inicia su formación en cultura de datos trabajando en Randommonkey para un proyecto de archivo de inmigración italiana a América Latina. Posteriormente sigue su formación en algunos Meet Ups de Shiny y R Studio, la experiencia de interactuar con datos haciendo visualizaciones callejeras fue un incentivo para replicar esta idea y por este medio ser una gran activista de la democratización de la información.
+
+
+
+
+
+
+
+
+
+
+
